@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/ddd7d274822a3d77beb9de9b4b20d571263a275c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_d63531f8f7aa909c173a5912b396ef74d0d900b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/ddd7d274822a3d77beb9de9b4b20d571263a275c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d63531f8f7aa909c173a5912b396ef74d0d900b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/841953a355682016324f31fc32237dd191b86773/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_373d66098a8f0e78d4d83beea21b1afc4f1b00b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/841953a355682016324f31fc32237dd191b86773/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_373d66098a8f0e78d4d83beea21b1afc4f1b00b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96cf35991694d4e43e91ed54613269c58949b13">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd4ed7d612663918cf79f3790eed53e2c1e8edfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/05f17a8712efc6085894f3a871396241e2be443a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_494f552a11fa95563f3723fcdca4fa43184c81a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/05f17a8712efc6085894f3a871396241e2be443a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_494f552a11fa95563f3723fcdca4fa43184c81a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/1d5c9e6d463aa3f1649abc41fb461206e621dcb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_eaacea217fcba53b6949aa211e4dc896ad21ce49.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/1d5c9e6d463aa3f1649abc41fb461206e621dcb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eaacea217fcba53b6949aa211e4dc896ad21ce49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_167990b6f5241696027466872a6a416a42d8cabd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9df2edd7e6c278b9c0643e6511b1bf37011e0bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/3c3e9fe375dae759dd9ed223fad9a4818614638f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_984ffd79d2588b95f3afe194e52ceff078b31e4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/3de8279fdc4129d382b00220a2e1896b301dbd53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a27fe9beb87cb0374e760ed5d97a0f34fcf73f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/66f3bd47ac453b78f1b76362b3ec7e913b2eb49f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_cb09d9e727997b1005a2e629c8b6d43307ea134c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/3de8279fdc4129d382b00220a2e1896b301dbd53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_6a27fe9beb87cb0374e760ed5d97a0f34fcf73f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/3c3e9fe375dae759dd9ed223fad9a4818614638f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_984ffd79d2588b95f3afe194e52ceff078b31e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_167990b6f5241696027466872a6a416a42d8cabd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/9f5a0c7c974c6aa0b78dc6d4a5ccd3264d1e0ea3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_0162da54f18643b9fe95978a88dc48c44aed1f58.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/66f3bd47ac453b78f1b76362b3ec7e913b2eb49f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb09d9e727997b1005a2e629c8b6d43307ea134c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_819d18ce25214cddcb65087748939dff6d34df48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.1/2626e02aa9592edd5386d87408e05727303d9ded/baseLibrary-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2626e02aa9592edd5386d87408e05727303d9ded">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.1_500f92286dd939902dc2748424cd98446cec0e71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/ddeeea7ec1e898bfb33f71428b158970072cd7b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bcea0faef21ae8294cbb6157ae1e3ba78148cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/52562bfacc171cd74d235107946ccff6d578b707/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_4c1512230e8e1c73a5cb71debf8e266e82fa5cae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/4d70691a481421f1a80f175094bfde9ef7ffab54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_ca9a687651dbcc5f14bb2884ac3ca8650a789e97.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_819d18ce25214cddcb65087748939dff6d34df48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.1/2626e02aa9592edd5386d87408e05727303d9ded/baseLibrary-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2626e02aa9592edd5386d87408e05727303d9ded">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.3.1_500f92286dd939902dc2748424cd98446cec0e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/38910807be095b0638967d4960abc69457dedd8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b101eb7536642aa6e8b3fed1513cca4a25b3299/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/ddeeea7ec1e898bfb33f71428b158970072cd7b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_8bcea0faef21ae8294cbb6157ae1e3ba78148cec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/4d70691a481421f1a80f175094bfde9ef7ffab54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca9a687651dbcc5f14bb2884ac3ca8650a789e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/giovanni/.android/build-cache/38910807be095b0638967d4960abc69457dedd8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/pre-dexed/debug/classes_5b101eb7536642aa6e8b3fed1513cca4a25b3299.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/52562bfacc171cd74d235107946ccff6d578b707/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c1512230e8e1c73a5cb71debf8e266e82fa5cae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/.android/build-cache/9f5a0c7c974c6aa0b78dc6d4a5ccd3264d1e0ea3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/DataBindingActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0162da54f18643b9fe95978a88dc48c44aed1f58/classes.dex" />
+    </item>
+
+</items>
